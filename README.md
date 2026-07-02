@@ -97,7 +97,11 @@ ProjetoFinal_LPOO_GabrielDuarteBarboza/
 
 ### Diagrama de Classes
 
-> Diagrama disponível na pasta `/docs` do repositório.
+![Diagrama de Classes](docs/classe_projeto.png)
+
+## Documentação do Projeto
+
+[Clique aqui para acessar a Documentação Completa](Documentação%20do%20Projeto.md)
 
 ## Padrões de Projeto Utilizados
 
